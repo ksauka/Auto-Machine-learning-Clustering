@@ -1,6 +1,6 @@
 # Auto-Machine-learning-Clustering
 Auto-Clustering
-A program structure that make it possible to automatically run 
+ program structure that make it possible to automatically run 
 different combinations of: 1) Various data scaling methods and encoding methods
                             2) Various values of the model parameters for each model
                             3) Various values for the hyperparameters
